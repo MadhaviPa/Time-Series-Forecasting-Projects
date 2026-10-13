@@ -1,4 +1,4 @@
-# ⏳ Time-Series Forecasting Portfolio | Madhavi Panchangum
+# ⏳  Forecasting Portfolio | Madhavi Panchangum
 
 > **Turning historical data into forecasts and actionable insights using statistics, econometrics, and machine learning.**
 
