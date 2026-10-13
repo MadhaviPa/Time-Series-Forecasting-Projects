@@ -12,7 +12,7 @@ My work combines **time-series analysis, econometrics, machine learning, and for
 
 ## 🚀 Projects
 
-### 🦠 COVID-19 Case Forecasting
+### 1.  🦠 COVID-19 Case Forecasting
 
 Forecasting COVID-19 cases in Germany and comparing traditional time-series models with machine-learning approaches.
 
@@ -24,7 +24,7 @@ Time-series modeling • Feature engineering • Machine learning • Rolling/ex
 
 ---
 
-### 🇺🇸 U.S. Industrial Production Forecasting
+### 2. 🇺🇸 U.S. Industrial Production Forecasting
 
 Forecasting U.S. industrial production using a large set of macroeconomic and financial indicators.
 
@@ -54,22 +54,7 @@ Rolling Window • Expanding Window • RMSE • MAE • RMSFE • Pinball Loss 
 Data Cleaning • Feature Engineering • Visualization • Model Comparison • Interpretation
 
 
-
-
-## 🌱 What's Next?
-
-This is an **evolving forecasting portfolio**.
-
-I will continue adding projects involving new datasets, forecasting problems, and modeling techniques to explore how statistical and machine-learning methods perform across different real-world applications.
-
----
-
-## 🤝 Connect
-
-Interested in my work or opportunities in **Data Analytics, Forecasting, Econometrics, or Data Science**?
-
 💼 **LinkedIn:** [Madhavi Panchangum](https://www.linkedin.com/in/madhavi-panchangum/)
 
----
 
 ⭐ **Good forecasting is not only about predicting what comes next—it is about discovering which information matters and how confidently we can use it to make decisions.**
