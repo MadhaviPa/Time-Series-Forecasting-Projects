@@ -2,7 +2,6 @@
 
 > **Turning historical data into forecasts and actionable insights using statistics, econometrics, and machine learning.**
 
-Welcome to my **Time-Series Forecasting Portfolio** 👋
 
 This repository contains forecasting projects where I work with **real-world economic and public-health data**, build predictive models, evaluate their out-of-sample performance, and translate the results into meaningful insights.
 
