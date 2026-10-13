@@ -44,7 +44,7 @@ Macroeconomic forecasting • High-dimensional data • Regularization • Mixed
 Time-Series Analysis • Point Forecasting • Quantile Forecasting • Multi-Step Forecasting
 
 **Statistical & ML Models**
-AR • ARX • SARX • Elastic Net • Random Forest • Regression Trees • Elastic Net  • Quantile forecasting 
+AR • ARX • SARX • Elastic Net • Random Forest • Regression Trees • Elastic Net  • Quantile Elastic Net 
 
 **Model Evaluation**
 Rolling Window • Expanding Window • RMSE • MAE • RMSFE • Pinball Loss • Diebold-Mariano Test
